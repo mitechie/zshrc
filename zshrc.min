@@ -1,0 +1,149 @@
+# Richard Harding
+# PyOhio Sample zshrc
+# for more zsh links check out: http://delicious.com/deuce868/zsh
+# and the Apress book: From Bash to Z Shell
+
+# -----------------------------------------------
+#
+# Set up the Environment
+# -----------------------------------------------
+
+EDITOR=vim
+PAGER=less
+RSYNC_RSH=/usr/bin/ssh
+FIGNORE='.o:.out:~'
+DISPLAY=:0.0
+
+# colored filename/directory completion
+# Attribute codes:
+# 00 none  01 bold  04 underscore  05 blink  07 reverse  08 concealed
+# Text color codes:
+# 30 black  31 red  32 green  33 yellow  34 blue  35 magenta  36 cyan  37 white
+# Background color codes:
+# 40 black  41 red  42 green  43 yellow  44 blue  45 magenta  46 cyan  47 white
+LS_COLORS='no=0:fi=0:di=1;34:ln=1;36:pi=40;33:so=1;35:do=1;35:bd=40;33;1:cd=40;33;1:or=40;31;1:ex=1;32:*.tar=1;31:*.tgz=1;31:*.arj=1;31:*.taz=1;31:*.lzh=1;31:*.zip=1;31:*.rar=1;31:*.z=1;31:*.Z=1;31:*.gz=1;31:*.bz2=1;31:*.tbz2=1;31:*.deb=1;31:*.pdf=1;31:*.jpg=1;35:*.jpeg=1;35:*.gif=1;35:*.bmp=1;35:*.pbm=1;35:*.pgm=1;35:*.ppm=1;35:*.pnm=1;35:*.tga=1;35:*.xbm=1;35:*.xpm=1;35:*.tif=1;35:*.tiff=1;35:*.png=1;35:*.mpg=1;35:*.mpeg=1;35:*.mov=1;35:*.avi=1;35:*.wmv=1;35:*.ogg=1;35:*.mp3=1;35:*.mpc=1;35:*.wav=1;35:*.au=1;35:*.swp=1;30:*.pl=36:*.c=36:*.cc=36:*.h=36:*.core=1;33;41:*.gpg=1;33:'
+ZLS_COLORS="$LS_COLORS"
+
+COLORTERM=yes
+PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/bin:/sbin
+
+# history saves 50,000 in it if we want to open it
+# only the last 1000 are part of backward searching
+HISTFILE=~/.zshhistory
+HISTSIZE=1000
+SAVEHIST=50000
+
+# share history across terminal sessions
+setopt SHARE_HISTORY
+setopt EXTENDED_HISTORY
+
+# ignore dupes 
+setopt HIST_IGNORE_ALL_DUPS
+setopt HISTVERIFY
+
+# complete on a space character
+bindkey ' ' magic-space
+
+# allow editing of the text on the current command line with v (cmd mode)
+autoload -U edit-command-line
+zle -N edit-command-line
+bindkey -M vicmd v edit-command-line
+
+# we like the calculator built into the shell
+autoload -U zcalc
+
+export TERM EDITOR PAGER RSYNC_RSH CVSROOT FIGNORE DISPLAY NNTPSERVER COLORTERM PATH HISTFILE HISTSIZE SAVEHIST
+
+# output colored grep
+export GREP_OPTIONS='--color=auto' 
+export GREP_COLOR='7;31'
+
+[[ -n "${key[Delete]}"  ]]  && bindkey  "${key[Delete]}"  delete-char
+
+# -----------------------------------------------
+# Prompt Setup
+# -----------------------------------------------
+setopt promptsubst
+autoload -U promptinit && promptinit
+
+# use the walters prompt as a default from the built ins
+# to view others use: prompt <tab> 
+prompt walters 
+
+autoload -U zrecompile
+
+# -----------------------------------------------
+# Zsh keybindings
+# -----------------------------------------------
+
+# auto pushd 
+setopt autocd autopushd pushdignoredups
+bindkey -v
+
+zstyle :compinstall filename '/home/rharding/.zshrc'
+autoload -Uz compinit && compinit
+
+# case-insensitive tab completion for filenames (useful on Mac OS X)
+zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
+
+zstyle ':completion:*' verbose yes
+zstyle ':completion:*:descriptions' format '-- %B%d%b --'
+zstyle ':completion:*:messages' format '%d'
+zstyle ':completion:*:warnings' format 'No matches for: %d'
+zstyle ':completion:*' group-name ''
+zstyle ':completion:*:default' list-colors ${(s.:.)LS_COLORS}
+
+#------------------------------------------------------------------------------
+
+
+# -----------------------------------------------
+# Setup
+# -----------------------------------------------
+setopt \
+    no_beep \
+    correct \
+    auto_list \
+    complete_in_word \
+    auto_pushd \
+    pushd_ignoredups \
+    complete_aliases \
+    extended_glob \
+    zle
+
+
+# map jj as the esc key for vim mode
+bindkey "jj" vi-cmd-mode
+#------------------------------------------------------------------------------
+
+
+# -----------------------------------------------
+# Shell Aliases
+# -----------------------------------------------
+
+## Command Aliases
+alias x=exit
+alias c=clear
+alias b=byobu
+alias s=screen
+alias r='screen -R'
+alias vi='vim'
+alias ls='ls --color=auto -F'
+alias l='ls -lAFh --color=auto'
+alias ld='ls -ltr --color=auto'
+alias sls='screen -ls'
+alias zrc='vim ~/.zshrc'
+alias dv='dirs -v'
+alias hist='history -rd'
+alias zc='zcalc'
+
+## Pipe Aliases (Global)
+alias -g L='|less'
+alias -g G='|grep'
+alias -g T='|tail'
+alias -g H='|head'
+alias -g W='|wc -l'
+alias -g S='|sort'
+
+# directory aliases
+# use like: ls ~src OR ~src OR du -h ~src
+src=~/src

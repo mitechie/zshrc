@@ -1,0 +1,46 @@
+Prompt:
+    - left/right
+        - right leaves
+    - vcs_info
+        - git/bzr/etc branches/dirty index info
+Vim Mode
+    - jj: enter command mode
+    - w/b
+    - D/0/
+    - searching
+
+No cd required
+    - /var/www/
+
+auto pushd
+    - cd ... ... ... ..
+    - dv
+    - ~0 / ~1
+
+ignore tab complete
+    - /home/rharding/des<tab>
+
+Directory alias
+    - alog="/var/log/apache2/"
+    - more than just a cd alias
+    - cd
+    - ls alog
+
+Pipe Alias
+    - alias -g G='|grep'
+    - ls | grep zsh
+    - ls G zsh
+
+Tab Completion is better
+    - workit workit
+    - git <tab><tab>
+        - show detailed help info
+    - git show <tab>
+        - grouped options
+        - ssh <tab>
+
+Shared History
+    - ls /home
+    - switch tab
+    - (hit enter)
+    - up-arrow
