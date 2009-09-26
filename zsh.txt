@@ -9,6 +9,9 @@ Vim Mode
     - D/0/
     - searching
 
+Edit command in term
+    - v
+
 No cd required
     - /var/www/
 
@@ -20,6 +23,10 @@ auto pushd
 ignore tab complete
     - /home/rharding/des<tab>
 
+super globbing
+    - workit uplift-framework
+    - ls -al Ula**/* G php L
+
 Directory alias
     - alog="/var/log/apache2/"
     - more than just a cd alias
@@ -30,6 +37,7 @@ Pipe Alias
     - alias -g G='|grep'
     - ls | grep zsh
     - ls G zsh
+    - G / L / H / T
 
 Tab Completion is better
     - workit workit
@@ -38,9 +46,15 @@ Tab Completion is better
     - git show <tab>
         - grouped options
         - ssh <tab>
+    - all functions have _xxx check out _git<tab>
 
 Shared History
     - ls /home
     - switch tab
     - (hit enter)
     - up-arrow
+
+Urls:
+    - bookmarks http://www.delicious.com/deuce868/zsh
+    - github sample configs http://github.com/mitechie/zshrc
+
