@@ -1,0 +1,21 @@
+{"pageSetup": {
+    "width": "16cm",
+    "height": "12cm",
+    "margin-top": "0cm",
+    "margin-bottom": "0cm",
+    "margin-left": "0cm",
+    "margin-right": "0cm",
+    "margin-gutter": "0cm",
+    "spacing-header": "3mm",
+    "spacing-footer": "3mm",
+    "firstTemplate": "cutePage"
+},
+
+"pageTemplates" : {
+    "cutePage": {
+        "frames": [
+            ["0%", "0%", "90%", "90%"]
+        ]
+    }
+}
+}

@@ -1,0 +1,2440 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 9 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:rharding@mitechie.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 97.03937
+ 241.3086
+ 396.189
+ 253.3086 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/mitechie/zshrc) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 97.03937
+ 211.3086
+ 396.189
+ 223.3086 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.delicious.com/deuce868/zsh) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 97.03937
+ 196.3086
+ 396.189
+ 208.3086 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R ]
+ /Contents 37 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+9 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 38 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 39 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 40 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 41 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Contents 42 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Contents 43 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Contents 44 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+17 0 obj
+% Page dictionary
+<< /Contents 45 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/mitechie/workit) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 52
+ 236.3086
+ 396.189
+ 248.3086 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page10': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Annots [ 18 0 R ]
+ /Contents 46 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+20 0 obj
+% Page dictionary
+<< /Contents 47 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page12': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Contents 48 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /Di /90
+ /M /I
+ /S /Split
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'R22': class PDFCatalog 
+22 0 obj
+% Document Root
+<< /Outlines 24 0 R
+ /PageMode /UseNone
+ /Pages 36 0 R
+ /Type /Catalog >>
+endobj
+% 'R23': class PDFInfo 
+23 0 obj
+<< /Author (Richard Harding)
+ /CreationDate (D:20100305134458+05'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (ZSH Notes) >>
+endobj
+% 'R24': class PDFOutlines 
+24 0 obj
+<< /Count 11
+ /First 25 0 R
+ /Last 35 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 26 0 R
+ /Parent 24 0 R
+ /Title (Prompt) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 27 0 R
+ /Parent 24 0 R
+ /Prev 25 0 R
+ /Title (Vim Mode) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 28 0 R
+ /Parent 24 0 R
+ /Prev 26 0 R
+ /Title (Working with directories) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 29 0 R
+ /Parent 24 0 R
+ /Prev 27 0 R
+ /Title (Working with directories \(2\)) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 14 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 30 0 R
+ /Parent 24 0 R
+ /Prev 28 0 R
+ /Title (Aliases) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 31 0 R
+ /Parent 24 0 R
+ /Prev 29 0 R
+ /Title (Alias Examples) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 32 0 R
+ /Parent 24 0 R
+ /Prev 30 0 R
+ /Title (Tab Completion is better) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 17 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 33 0 R
+ /Parent 24 0 R
+ /Prev 31 0 R
+ /Title (Shared History) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 19 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 34 0 R
+ /Parent 24 0 R
+ /Prev 32 0 R
+ /Title (Workit) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 20 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 35 0 R
+ /Parent 24 0 R
+ /Prev 33 0 R
+ /Title (Workit Example) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Parent 24 0 R
+ /Prev 34 0 R
+ /Title (Workit Notes) >>
+endobj
+% 'R36': class PDFPages 
+36 0 obj
+% page tree
+<< /Count 12
+ /Kids [ 8 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R ]
+ /Type /Pages >>
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 1686 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 259.7386 cm
+q
+BT 1 0 0 1 0 9.64 Tm 147.5345 0 Td 24 TL /F2 20 Tf 0 0 0 rg (ZSH Notes) Tj T* -147.5345 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 234.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Richard Harding) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 219.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 32.48937 0 Td (Contact:) Tj T* -32.48937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (mitechie \(twitter/identica\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 204.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 17.47937 0 Td (Repository:) Tj T* -17.47937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (http://github.com/mitechie/zshrc) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 189.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 15.24937 0 Td (Bookmarks:) Tj T* -15.24937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (http://www.delicious.com/deuce868/zsh) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 189.7386 cm
+Q
+q
+1 0 0 1 6 189.7386 cm
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (1) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R38': class PDFStream 
+38 0 obj
+% page stream
+<< /Length 1973 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 233.4599 cm
+q
+q
+.844393 0 0 .844393 0 0 cm
+q
+1 0 0 1 6.6 7.81627 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F4 10 Tf 12 TL ([master//zsh_samples N ]%             \(rharding@rharding:~/src/zsh_samples/\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 225.4599 cm
+Q
+q
+1 0 0 1 6 207.4599 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Prompt has two parts - left/right) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 207.4599 cm
+Q
+q
+1 0 0 1 6 210.4599 cm
+Q
+q
+1 0 0 1 6 192.4599 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (When the terminal line runs long, right side disappears.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 192.4599 cm
+Q
+q
+1 0 0 1 6 195.4599 cm
+Q
+q
+1 0 0 1 6 165.4599 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 4.867415 Tw (Using vcs_info you can add in custom prompt details for all major VCS) Tj T* 0 Tw (\(svn/git/hg/bzr\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 165.4599 cm
+Q
+q
+1 0 0 1 6 165.4599 cm
+Q
+q
+1 0 0 1 6 165.4599 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 210.6567 0 Td (Prompt) Tj T* -210.6567 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (2) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R39': class PDFStream 
+39 0 obj
+% page stream
+<< /Length 3151 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Vim Mode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 256.7386 cm
+Q
+q
+1 0 0 1 6 238.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F4 10 Tf 0 0 0 rg (esc ) Tj /F1 10 Tf (: enter command mode - I use mapped to ) Tj /F4 10 Tf (jj) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 238.7386 cm
+Q
+q
+1 0 0 1 6 241.7386 cm
+Q
+q
+1 0 0 1 6 223.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (w/b : forward/back word in editing prompt) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 223.7386 cm
+Q
+q
+1 0 0 1 6 226.7386 cm
+Q
+q
+1 0 0 1 6 208.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (cw/dw : change current word/delete word) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 208.7386 cm
+Q
+q
+1 0 0 1 6 211.7386 cm
+Q
+q
+1 0 0 1 6 193.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F4 10 Tf 0 0 0 rg (f / ) Tj /F1 10 Tf (: move cursor forward to first instance of forward slash) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 193.7386 cm
+Q
+q
+1 0 0 1 6 196.7386 cm
+Q
+q
+1 0 0 1 6 178.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (!!:s/XX/YY : Run last command, but replace XX with YY) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 178.7386 cm
+Q
+q
+1 0 0 1 6 181.7386 cm
+Q
+q
+1 0 0 1 6 163.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (/ and ? : searching the command history - n/N : next/prev result) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 163.7386 cm
+Q
+q
+1 0 0 1 6 166.7386 cm
+Q
+q
+1 0 0 1 6 148.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F4 10 Tf 0 0 0 rg (v ) Tj /F1 10 Tf (: edit current command line in vim) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 148.7386 cm
+Q
+q
+1 0 0 1 6 148.7386 cm
+Q
+q
+1 0 0 1 6 148.7386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 204.2667 0 Td (Vim Mode) Tj T* -204.2667 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (3) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R40': class PDFStream 
+40 0 obj
+% page stream
+<< /Length 1763 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Working with directories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 256.7386 cm
+Q
+q
+1 0 0 1 6 238.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (No cd required) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 238.7386 cm
+Q
+q
+1 0 0 1 6 205.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F4 10 Tf 12 TL ($ /var/www/) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 197.5386 cm
+Q
+q
+1 0 0 1 6 179.5386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (auto pushd) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 179.5386 cm
+Q
+q
+1 0 0 1 6 98.33858 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 72 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 53.71 Tm /F4 10 Tf 12 TL ($ cd /var/log ... ... ..) Tj T* ($ cd /var/ww) Tj T* ($ cd /etc/apache2) Tj T* ($ dv) Tj T* ($ ~1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 90.33858 cm
+Q
+q
+1 0 0 1 6 90.33858 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 173.7067 0 Td (Working with directories) Tj T* -173.7067 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (4) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R41': class PDFStream 
+41 0 obj
+% page stream
+<< /Length 1795 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Working with directories \(2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 256.7386 cm
+Q
+q
+1 0 0 1 6 238.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ignore case tab complete) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 238.7386 cm
+Q
+q
+1 0 0 1 6 193.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ /home/rharding/flos) Tj (<) Tj (tab) Tj (>) Tj  T* ($ ~/flos) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 185.5386 cm
+Q
+q
+1 0 0 1 6 167.5386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (super globbing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 167.5386 cm
+Q
+q
+1 0 0 1 6 122.3386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F4 10 Tf 12 TL ($ workit hotalert) Tj T* ($ ls -al qsat**/* G mako L) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 114.3386 cm
+Q
+q
+1 0 0 1 6 114.3386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 166.2067 0 Td (Working with directories \(2\)) Tj T* -166.2067 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (5) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R42': class PDFStream 
+42 0 obj
+% page stream
+<< /Length 2503 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Aliases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 256.7386 cm
+Q
+q
+1 0 0 1 6 220.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Directory alias) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (more than cd shortcut command, usable from other commands) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 220.7386 cm
+Q
+q
+1 0 0 1 6 163.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.71 Tm /F4 10 Tf 12 TL ($ alog="/var/log/apache2/") Tj T* ($ cd alog) Tj T* ($ ls alog) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 155.5386 cm
+Q
+q
+1 0 0 1 6 119.5386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Pipe Alias) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (uses ) Tj /F4 10 Tf (-g ) Tj /F1 10 Tf (flag) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 119.5386 cm
+Q
+q
+1 0 0 1 6 50.33858 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F4 10 Tf 12 TL ($ workit zsh_samples) Tj T* ($ alias -g G='|grep') Tj T* ($ ls | grep zsh) Tj T* ($ ls G zsh) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 42.33858 cm
+Q
+q
+1 0 0 1 6 42.33858 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 210.6567 0 Td (Aliases) Tj T* -210.6567 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (6) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R43': class PDFStream 
+43 0 obj
+% page stream
+<< /Length 3160 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Alias Examples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 256.7386 cm
+Q
+q
+1 0 0 1 6 238.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (G : grep) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 238.7386 cm
+Q
+q
+1 0 0 1 6 241.7386 cm
+Q
+q
+1 0 0 1 6 223.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (L : less) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 223.7386 cm
+Q
+q
+1 0 0 1 6 226.7386 cm
+Q
+q
+1 0 0 1 6 208.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (H : head) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 208.7386 cm
+Q
+q
+1 0 0 1 6 211.7386 cm
+Q
+q
+1 0 0 1 6 193.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (T : tail) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 193.7386 cm
+Q
+q
+1 0 0 1 6 196.7386 cm
+Q
+q
+1 0 0 1 6 178.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (S : sort) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 178.7386 cm
+Q
+q
+1 0 0 1 6 181.7386 cm
+Q
+q
+1 0 0 1 6 163.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (W : wc -l) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 163.7386 cm
+Q
+q
+1 0 0 1 6 166.7386 cm
+Q
+q
+1 0 0 1 6 148.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (V : vim) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 148.7386 cm
+Q
+q
+1 0 0 1 6 151.7386 cm
+Q
+q
+1 0 0 1 6 133.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (A : ack-grep) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 133.7386 cm
+Q
+q
+1 0 0 1 6 133.7386 cm
+Q
+q
+1 0 0 1 6 133.7386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 192.5967 0 Td (Alias Examples) Tj T* -192.5967 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (7) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R44': class PDFStream 
+44 0 obj
+% page stream
+<< /Length 2731 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tab Completion is better) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 229.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F4 10 Tf 12 TL ($ workit workit) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 221.5386 cm
+Q
+q
+1 0 0 1 6 203.5386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Shows all of the possible commands with help text) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 203.5386 cm
+Q
+q
+1 0 0 1 6 170.3386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ git ) Tj (<) Tj (tab) Tj (>) Tj (<) Tj (tab) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 162.3386 cm
+Q
+q
+1 0 0 1 6 144.3386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Show grouped options) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 144.3386 cm
+Q
+q
+1 0 0 1 6 99.13858 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ git show ) Tj (<) Tj (tab) Tj (>) Tj  T* ($ ssh ) Tj (<) Tj (tab) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 91.13858 cm
+Q
+q
+1 0 0 1 6 73.13858 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Provided by completion functions, small easy to do) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 73.13858 cm
+Q
+q
+1 0 0 1 6 39.93858 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ __git) Tj (<) Tj (tab) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 31.93858 cm
+Q
+q
+1 0 0 1 6 31.93858 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 172.3067 0 Td (Tab Completion is better) Tj T* -172.3067 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (8) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R45': class PDFStream 
+45 0 obj
+% page stream
+<< /Length 1369 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Shared History) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 229.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F4 10 Tf 12 TL ($ ls /home) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 221.5386 cm
+Q
+q
+1 0 0 1 6 203.5386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (switch tab) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 203.5386 cm
+Q
+q
+1 0 0 1 6 158.3386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ ) Tj (<) Tj (enter) Tj (>) Tj  T* ($ ) Tj (<) Tj (up-arrow) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 150.3386 cm
+Q
+q
+1 0 0 1 6 150.3386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 193.7067 0 Td (Shared History) Tj T* -193.7067 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (9) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R46': class PDFStream 
+46 0 obj
+% page stream
+<< /Length 2945 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Workit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 250.7386 cm
+Q
+q
+1 0 0 1 6 226.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 0 5 Tm  T* ET
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (http://github.com/mitechie/workit) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 226.7386 cm
+Q
+q
+1 0 0 1 6 208.7386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Assists in quickly working on various src/text projects you might have.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 208.7386 cm
+Q
+q
+1 0 0 1 6 127.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Provides a postactivate and postdeactivate file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 66 cm
+Q
+q
+1 0 0 1 23 48 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (perform actions \(update vim ctags\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 48 cm
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 33 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (set env variables \(build paths\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 33 cm
+Q
+q
+1 0 0 1 23 36 cm
+Q
+q
+1 0 0 1 23 18 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (start/stop services \(mysql/postgres/apache\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 18 cm
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (define shortcuts used i.e. \() Tj /F4 10 Tf (qunit) Tj /F1 10 Tf (\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 127.7386 cm
+Q
+q
+1 0 0 1 6 127.7386 cm
+Q
+q
+1 0 0 1 6 127.7386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 212.6067 0 Td (Workit) Tj T* -212.6067 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (10) Tj T* -221.2117 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R47': class PDFStream 
+47 0 obj
+% page stream
+<< /Length 1099 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Workit Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 217.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.71 Tm /F4 10 Tf 12 TL ($ workit tadmin) Tj T* ($ vi postactivate) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 148.3386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 60 re B*
+Q
+q
+BT 1 0 0 1 0 41.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (workit zsh_samples) Tj T* (workit ) Tj (<) Tj (tab) Tj (>) Tj  T* (workit pyvim) Tj T* (workit hotaler) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 140.3386 cm
+Q
+q
+1 0 0 1 6 140.3386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 191.7667 0 Td (Workit Example) Tj T* -191.7667 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (11) Tj T* -221.2117 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R48': class PDFStream 
+48 0 obj
+% page stream
+<< /Length 1045 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Workit Notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 244.7386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Currently only works in zsh, needs some bash love. Completion scripts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 211.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F4 10 Tf 12 TL (compctl -g "`show_workit_projects`" workit) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 191.5386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ZSH has higher level arrays that bash doesn't. Need to translate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 191.5386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 198.1567 0 Td (Workit Notes) Tj T* -198.1567 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (12) Tj T* -221.2117 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+xref
+0 49
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000585 00000 n
+0000000766 00000 n
+0000001011 00000 n
+0000001260 00000 n
+0000001500 00000 n
+0000001851 00000 n
+0000002010 00000 n
+0000002324 00000 n
+0000002638 00000 n
+0000002952 00000 n
+0000003266 00000 n
+0000003580 00000 n
+0000003894 00000 n
+0000004208 00000 n
+0000004536 00000 n
+0000004768 00000 n
+0000005104 00000 n
+0000005419 00000 n
+0000005749 00000 n
+0000005887 00000 n
+0000006123 00000 n
+0000006249 00000 n
+0000006409 00000 n
+0000006586 00000 n
+0000006779 00000 n
+0000006978 00000 n
+0000007154 00000 n
+0000007337 00000 n
+0000007530 00000 n
+0000007713 00000 n
+0000007888 00000 n
+0000008072 00000 n
+0000008222 00000 n
+0000008429 00000 n
+0000010216 00000 n
+0000012290 00000 n
+0000015542 00000 n
+0000017406 00000 n
+0000019302 00000 n
+0000021906 00000 n
+0000025167 00000 n
+0000027999 00000 n
+0000029469 00000 n
+0000032515 00000 n
+0000033715 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\247\304\353\317Q<\213\221\306\027\015\266\266\177\216\310) (\247\304\353\317Q<\213\221\306\027\015\266\266\177\216\310)] 
+
+ /Info 23 0 R
+ /Root 22 0 R
+ /Size 49 >>
+startxref
+34834
+%%EOF
