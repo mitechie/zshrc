@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.6: http://docutils.sourceforge.net/" />
+<title>ZSH Notes</title>
+<meta name="author" content="Richard Harding" />
+<style type="text/css">
+
+body {
+    font-family: Verdana, sans;
+    margin: 3em;
+    max-width: 50em;
+}
+ 
+p {
+    text-align: justify;
+}
+ 
+/* Monospace text */
+ 
+tt {
+    font-family: Andale Mono, Courier New, monospace;
+    color: #234F32;
+}
+ 
+/* Definition lists */
+ 
+dt {
+    font-weight: bold;
+}
+dd {
+    margin-bottom: 1em;
+}
+ 
+/* Doctest blocks */
+ 
+pre.doctest-block {
+    color: #008000;
+}
+ 
+/* Literal blocks */
+ 
+pre.literal-block {
+    color: #AA4400;
+    margin-left: 40px;
+}
+ 
+/* Indented quotations */
+ 
+blockquote > p {
+    color: #000080;
+}
+ 
+/* Tables */
+ 
+table {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: none;
+    border-right: none;
+    border-collapse: collapse;
+}
+tr:first-child > th {
+    border-top: none;
+}
+th {
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    border-bottom: none;
+    text-align: left;
+}
+tr:first-child > td {
+    border-top: 1px solid black;
+}
+table[rules=none] tr:first-child > td {
+    border-top: none;
+}
+td {
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    border-bottom: none;
+    padding: 1px 4px;
+}
+td, th {
+    padding-left: 1em;
+}
+td:first-child,
+th:first-child {
+    padding-left: 4px;
+}
+ 
+td p:first-child {
+    margin-top: 0;
+}
+ 
+/* Table of Contents */
+ 
+p.topic-title {
+    font-weight: bold;
+    font-size: 120%;
+}
+ 
+a.toc-backref {
+    color: inherit;
+    text-decoration: none;
+}
+ 
+/* Footnotes */
+ 
+a.footnote-reference,
+a.fn-backref {
+    font-size: xx-small;
+    vertical-align: super;
+    line-height: normal;
+    text-decoration: none;
+}
+a.footnote-reference:hover,
+a.fn-backref:hover {
+    text-decoration: underline;
+}
+ 
+table.footnote {
+    border: none;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 20px;
+    margin-right: 0.5em;
+    font-size: small;
+}
+table.footnote td {
+    border: none;
+    padding-top: 1em;
+    padding-left: 0px;
+}
+table.footnote tr:first-child > td.label {
+    border-top: 1px solid #eee;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ 
+table.footnote + table.footnote {
+    margin-top: 0;
+}
+table.footnote + table.footnote td {
+    border: none;
+    padding-top: 0;
+}
+ 
+/* System messages (aka errors) */
+ 
+div.system-message {
+    border-left: 3px double red;
+    margin-left: 19px;
+    padding-left: 19px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: red;
+}
+ 
+div.system-message p.system-message-title {
+    margin-top: 0;
+    font-weight: bold;
+}
+
+</style>
+</head>
+<body>
+<div class="document" id="zsh-notes">
+<h1 class="title">ZSH Notes</h1>
+<table class="docinfo" frame="void" rules="none">
+<col class="docinfo-name" />
+<col class="docinfo-content" />
+<tbody valign="top">
+<tr><th class="docinfo-name">Author:</th>
+<td><a class="first last reference external" href="mailto:rharding&#64;mitechie.com">Richard Harding</a></td></tr>
+<tr><th class="docinfo-name">Contact:</th>
+<td>mitechie (twitter/identica)</td></tr>
+<tr class="field"><th class="docinfo-name">Repository:</th><td class="field-body"><a class="reference external" href="http://github.com/mitechie/zshrc">http://github.com/mitechie/zshrc</a></td>
+</tr>
+<tr class="field"><th class="docinfo-name">Bookmarks:</th><td class="field-body"><a class="reference external" href="http://www.delicious.com/deuce868/zsh">http://www.delicious.com/deuce868/zsh</a></td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="prompt">
+<h1>Prompt</h1>
+<pre class="literal-block">
+[master//zsh_samples N ]%             (rharding&#64;rharding:~/src/zsh_samples/)
+</pre>
+<ul class="simple">
+<li>Prompt has two parts - left/right</li>
+<li>When the terminal line runs long, right side disappears.</li>
+<li>Using vcs_info you can add in custom prompt details for all major VCS (svn/git/hg/bzr)</li>
+</ul>
+</div>
+<div class="section" id="vim-mode">
+<h1>Vim Mode</h1>
+<blockquote>
+<ul class="simple">
+<li><tt class="docutils literal">esc</tt> : enter command mode<ul>
+<li>I use mapped to <tt class="docutils literal">jj</tt></li>
+</ul>
+</li>
+<li>w/b : forward/back word in editing prompt</li>
+<li>cw/dw : change current word/delete word</li>
+<li><tt class="docutils literal">f /</tt> : move cursor forward to first instance of forward slash</li>
+<li>!!:s/XX/YY : Run last command, but replace XX with YY</li>
+<li>/ and ? : searching the command history
+- n/N : next/prev result</li>
+<li><tt class="docutils literal">v</tt> : edit current command line in vim</li>
+</ul>
+</blockquote>
+</div>
+<div class="section" id="working-with-directories">
+<h1>Working with directories</h1>
+<ul class="simple">
+<li>No cd required</li>
+</ul>
+<pre class="literal-block">
+$ /var/www/
+</pre>
+<ul class="simple">
+<li>auto pushd</li>
+</ul>
+<pre class="literal-block">
+$ cd /var/log
+$ cd /var/www
+$ cd /etc/apache2
+$ dv
+$ ~1
+</pre>
+<ul class="simple">
+<li>ignore tab complete</li>
+</ul>
+<pre class="literal-block">
+$ /home/rharding/flos&lt;tab&gt;
+$ ~/flos&lt;tab&gt;
+</pre>
+<ul class="simple">
+<li>super globbing</li>
+</ul>
+<pre class="literal-block">
+$ workit hotalert
+$ ls -al qsat**/* G mako L
+</pre>
+</div>
+<div class="section" id="aliases">
+<h1>Aliases</h1>
+<ul class="simple">
+<li>Directory alias<ul>
+<li>more than an alias for a cd command, usable as parameter to other commands</li>
+</ul>
+</li>
+</ul>
+<pre class="literal-block">
+$ alog=&quot;/var/log/apache2/&quot;
+$ cd
+$ ls alog
+</pre>
+<ul class="simple">
+<li>Pipe Alias<ul>
+<li>uses <tt class="docutils literal"><span class="pre">-g</span></tt> flag</li>
+</ul>
+</li>
+</ul>
+<pre class="literal-block">
+$ workit zsh_samples
+$ alias -g G='|grep'
+$ ls | grep zsh
+$ ls G zsh
+</pre>
+</div>
+<div class="section" id="alias-examples">
+<h1>Alias Examples</h1>
+<ul class="simple">
+<li>G : grep</li>
+<li>L : less</li>
+<li>H : head</li>
+<li>T : tail</li>
+<li>S : sort</li>
+<li>W : wc -l</li>
+<li>V : vim</li>
+<li>A : ack-grep</li>
+</ul>
+</div>
+<div class="section" id="tab-completion-is-better">
+<h1>Tab Completion is better</h1>
+<pre class="literal-block">
+$ workit workit
+</pre>
+<ul class="simple">
+<li>Shows all of the possible commands with help text</li>
+</ul>
+<pre class="literal-block">
+$ git &lt;tab&gt;&lt;tab&gt;
+</pre>
+<ul class="simple">
+<li>Show grouped options</li>
+</ul>
+<pre class="literal-block">
+$ git show &lt;tab&gt;
+$ ssh &lt;tab&gt;
+</pre>
+<ul class="simple">
+<li>Provded by completion functions, small and easy to do</li>
+</ul>
+<pre class="literal-block">
+$ __git&lt;tab&gt;
+</pre>
+</div>
+<div class="section" id="shared-history">
+<h1>Shared History</h1>
+<pre class="literal-block">
+$ ls /home
+</pre>
+<ul class="simple">
+<li>switch to already running tab</li>
+</ul>
+<pre class="literal-block">
+$ &lt;enter&gt;
+$ &lt;up-arrow&gt;
+</pre>
+</div>
+<div class="section" id="workit">
+<h1>Workit</h1>
+<ul class="simple">
+<li><a class="reference external" href="http://github.com/mitechie/workit">http://github.com/mitechie/workit</a></li>
+</ul>
+<p>Assists in quickly working on various src/text projects you might have.</p>
+<ul class="simple">
+<li>Provides a postactivate and postdeactivate file<ul>
+<li>perform actions (update vim ctags)</li>
+<li>set env variables (build paths)</li>
+<li>start/stop services (mysql/postgres/apache)</li>
+<li>define shortcuts used i.e. (qunit)</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="workit-example">
+<h1>Workit Example</h1>
+<pre class="literal-block">
+$ workit tadmin
+$ vi postactivate
+</pre>
+<pre class="literal-block">
+$ workit zsh_samples
+$ workit &lt;tab&gt;
+$ workit pyvim
+$ workit hotaler
+</pre>
+</div>
+<div class="section" id="workit-notes">
+<h1>Workit Notes</h1>
+<p>Currently only works in zsh, needs some bash love. Completion scripts</p>
+<pre class="literal-block">
+compctl -g &quot;`show_workit_projects`&quot; workit
+</pre>
+<p>ZSH has higher level arrays that bash doesn't. Need to translate.</p>
+</div>
+</div>
+</body>
+</html>
