@@ -2,24 +2,21 @@
 ZSH Notes
 ================
 :Author: `Richard Harding`_
+:Contact: mitechie (twitter/identica)
 :Repository: `http://github.com/mitechie/zshrc`__
-:Description: Scripts to generate virtualenv installs preconfigured for Morpace Pylons applications.
+:Bookmarks: http://www.delicious.com/deuce868/zsh
 
 .. __ : http://github.com/mitechie/zshrc
 
 Prompt
 ======
-- Prompt has two parts - left/right
-- When the terminal line runs long, right side disappears.
-- Using vcs_info you can add in custom prompt details for all major VCS (svn/git/hg/bzr)
-
 ::
 
     [master//zsh_samples N ]%             (rharding@rharding:~/src/zsh_samples/)
 
-
-
-
+- Prompt has two parts - left/right
+- When the terminal line runs long, right side disappears.
+- Using vcs_info you can add in custom prompt details for all major VCS (svn/git/hg/bzr)
 
 
 Vim Mode
