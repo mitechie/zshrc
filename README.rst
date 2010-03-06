@@ -9,11 +9,6 @@ ZSH Notes
 .. __ : http://github.com/mitechie/zshrc
 .. _Richard Harding : rharding@mitechie.com
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 Prompt
 ======
@@ -24,11 +19,6 @@ Prompt
 - Prompt has two parts - left/right
 - When the terminal line runs long, right side disappears.
 - Using vcs_info you can add in custom prompt details for all major VCS (svn/git/hg/bzr)
-
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
 
 
 Vim Mode
@@ -45,11 +35,6 @@ Vim Mode
     - n/N : next/prev result
   - ``v`` : edit current command line in vim
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 Vim Edit Sample
 ===============
@@ -59,11 +44,6 @@ Vim Edit Sample
     'http://www.predictadxml.com/ads/?pid=5152&cs=872&keyword=cash&ref=http%3a%2f%2fwww.exampledomain.com&adult=0&ua=Mozilla%2f5.0+(Windows%3b+U%3b+Windows+NT+5.1%3b+en-US%3b+rv%3a1.9.0.3)+Gecko%2f2008092417+Firefox%2f3.0.3&f=1&subid=1&count=2&ip=194.117.97.95'; \
     done 2>&1 | grep real
 
-
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
 
 
 Working with directories
@@ -84,11 +64,6 @@ Working with directories
     $ dv
     $ ~1
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 - ignore tab complete
 
@@ -104,11 +79,6 @@ Working with directories
     $ workit hotalert
     $ ls -al qsat**/* G mako L
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 Aliases
 ========
@@ -123,11 +93,6 @@ Aliases
     $ alog
     $ ls alog
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 - Pipe Alias
 
@@ -140,11 +105,6 @@ Aliases
     $ ls | grep zsh
     $ ls G zsh
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 Pipe Aliases
 ==============
@@ -156,11 +116,6 @@ Pipe Aliases
 - W : wc -l
 - V : vim
 - A : ack-grep
-
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
 
 
 Extension Aliases
@@ -176,11 +131,6 @@ Opens files with that extension in that application
     $ fabfile.py
     $ Python_Testing_Beginner's_Guide.pdf
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 Tab Completion is better
 ========================
@@ -193,11 +143,6 @@ Tab Completion is better
 :: 
 
     $ git <tab><tab>
-
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
 
 
 - Show grouped options
@@ -213,11 +158,6 @@ Tab Completion is better
 
     $ __git<tab>
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 Shared History
 ===============
@@ -231,11 +171,6 @@ Shared History
 
     $ <enter>
     $ <up-arrow>
-
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
 
 
 Workit
@@ -251,11 +186,6 @@ Assists in quickly working on various src/text projects you might have.
   - start/stop services (mysql/postgres/apache)
   - define shortcuts used i.e. (qunit)
 
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
-
 
 Workit Example
 ==============
@@ -270,11 +200,6 @@ Workit Example
     $ workit <tab>
     $ workit pyvim
     $ workit hotalert
-
-.. raw:: pdf
-
-    Transition Dissolve 1
-    PageBreak
 
 
 Workit Notes
