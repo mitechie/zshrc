@@ -86,12 +86,12 @@ endobj
 << /Annots [ 5 0 R
  6 0 R
  7 0 R ]
- /Contents 37 0 R
+ /Contents 42 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -116,12 +116,12 @@ endobj
 % 'Page2': class PDFPage 
 10 0 obj
 % Page dictionary
-<< /Contents 38 0 R
+<< /Contents 43 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -137,12 +137,12 @@ endobj
 % 'Page3': class PDFPage 
 11 0 obj
 % Page dictionary
-<< /Contents 39 0 R
+<< /Contents 44 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -158,12 +158,12 @@ endobj
 % 'Page4': class PDFPage 
 12 0 obj
 % Page dictionary
-<< /Contents 40 0 R
+<< /Contents 45 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -179,12 +179,12 @@ endobj
 % 'Page5': class PDFPage 
 13 0 obj
 % Page dictionary
-<< /Contents 41 0 R
+<< /Contents 46 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -200,12 +200,12 @@ endobj
 % 'Page6': class PDFPage 
 14 0 obj
 % Page dictionary
-<< /Contents 42 0 R
+<< /Contents 47 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -221,12 +221,12 @@ endobj
 % 'Page7': class PDFPage 
 15 0 obj
 % Page dictionary
-<< /Contents 43 0 R
+<< /Contents 48 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -242,12 +242,12 @@ endobj
 % 'Page8': class PDFPage 
 16 0 obj
 % Page dictionary
-<< /Contents 44 0 R
+<< /Contents 49 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -263,12 +263,12 @@ endobj
 % 'Page9': class PDFPage 
 17 0 obj
 % Page dictionary
-<< /Contents 45 0 R
+<< /Contents 50 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -281,31 +281,15 @@ endobj
  /Type /Trans >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
-18 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://github.com/mitechie/workit) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 52
- 236.3086
- 396.189
- 248.3086 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
 % 'Page10': class PDFPage 
-19 0 obj
+18 0 obj
 % Page dictionary
-<< /Annots [ 18 0 R ]
- /Contents 46 0 R
+<< /Contents 51 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -319,14 +303,14 @@ endobj
  /Type /Page >>
 endobj
 % 'Page11': class PDFPage 
-20 0 obj
+19 0 obj
 % Page dictionary
-<< /Contents 47 0 R
+<< /Contents 52 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -340,14 +324,14 @@ endobj
  /Type /Page >>
 endobj
 % 'Page12': class PDFPage 
-21 0 obj
+20 0 obj
 % Page dictionary
-<< /Contents 48 0 R
+<< /Contents 53 0 R
  /MediaBox [ 0
  0
  453.5433
  340.1575 ]
- /Parent 36 0 R
+ /Parent 41 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -356,170 +340,280 @@ endobj
  /ImageI ] >>
  /Rotate 0
  /Trans << /D 1
- /Di /90
- /M /I
- /S /Split
+ /S /Dissolve
  /Type /Trans >>
  /Type /Page >>
 endobj
-% 'R22': class PDFCatalog 
+% 'Page13': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 41 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
 22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/mitechie/workit) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 29
+ 245.3086
+ 399.189
+ 257.3086 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page14': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Annots [ 22 0 R ]
+ /Contents 55 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 41 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page15': class PDFPage 
+24 0 obj
+% Page dictionary
+<< /Contents 56 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 41 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'Page16': class PDFPage 
+25 0 obj
+% Page dictionary
+<< /Contents 57 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 340.1575 ]
+ /Parent 41 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans << /D 1
+ /S /Dissolve
+ /Type /Trans >>
+ /Type /Page >>
+endobj
+% 'R26': class PDFCatalog 
+26 0 obj
 % Document Root
-<< /Outlines 24 0 R
+<< /Outlines 28 0 R
  /PageMode /UseNone
- /Pages 36 0 R
+ /Pages 41 0 R
  /Type /Catalog >>
 endobj
-% 'R23': class PDFInfo 
-23 0 obj
+% 'R27': class PDFInfo 
+27 0 obj
 << /Author (Richard Harding)
- /CreationDate (D:20100305134458+05'00')
+ /CreationDate (D:20100305201813+05'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (ZSH Notes) >>
 endobj
-% 'R24': class PDFOutlines 
-24 0 obj
-<< /Count 11
- /First 25 0 R
- /Last 35 0 R
+% 'R28': class PDFOutlines 
+28 0 obj
+<< /Count 12
+ /First 29 0 R
+ /Last 40 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-25 0 obj
+29 0 obj
 << /Dest [ 10 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Next 26 0 R
- /Parent 24 0 R
+ /Next 30 0 R
+ /Parent 28 0 R
  /Title (Prompt) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-26 0 obj
+30 0 obj
 << /Dest [ 11 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Next 27 0 R
- /Parent 24 0 R
- /Prev 25 0 R
+ /Next 31 0 R
+ /Parent 28 0 R
+ /Prev 29 0 R
  /Title (Vim Mode) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-27 0 obj
+31 0 obj
 << /Dest [ 12 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Next 28 0 R
- /Parent 24 0 R
- /Prev 26 0 R
- /Title (Working with directories) >>
+ /Next 32 0 R
+ /Parent 28 0 R
+ /Prev 30 0 R
+ /Title (Vim Edit Sample) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-28 0 obj
+32 0 obj
 << /Dest [ 13 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Next 29 0 R
- /Parent 24 0 R
- /Prev 27 0 R
- /Title (Working with directories \(2\)) >>
+ /Next 33 0 R
+ /Parent 28 0 R
+ /Prev 31 0 R
+ /Title (Working with directories) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-29 0 obj
-<< /Dest [ 14 0 R
- /XYZ
- 6
- 283.7386
- 0 ]
- /Next 30 0 R
- /Parent 24 0 R
- /Prev 28 0 R
- /Title (Aliases) >>
-endobj
-% 'Outline.5': class OutlineEntryObject 
-30 0 obj
+33 0 obj
 << /Dest [ 15 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Next 31 0 R
- /Parent 24 0 R
- /Prev 29 0 R
- /Title (Alias Examples) >>
+ /Next 34 0 R
+ /Parent 28 0 R
+ /Prev 32 0 R
+ /Title (Aliases) >>
 endobj
-% 'Outline.6': class OutlineEntryObject 
-31 0 obj
-<< /Dest [ 16 0 R
- /XYZ
- 6
- 283.7386
- 0 ]
- /Next 32 0 R
- /Parent 24 0 R
- /Prev 30 0 R
- /Title (Tab Completion is better) >>
-endobj
-% 'Outline.7': class OutlineEntryObject 
-32 0 obj
+% 'Outline.5': class OutlineEntryObject 
+34 0 obj
 << /Dest [ 17 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Next 33 0 R
- /Parent 24 0 R
- /Prev 31 0 R
- /Title (Shared History) >>
+ /Next 35 0 R
+ /Parent 28 0 R
+ /Prev 33 0 R
+ /Title (Pipe Aliases) >>
 endobj
-% 'Outline.8': class OutlineEntryObject 
-33 0 obj
+% 'Outline.6': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 36 0 R
+ /Parent 28 0 R
+ /Prev 34 0 R
+ /Title (Extension Aliases) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+36 0 obj
 << /Dest [ 19 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Next 34 0 R
- /Parent 24 0 R
- /Prev 32 0 R
- /Title (Workit) >>
+ /Next 37 0 R
+ /Parent 28 0 R
+ /Prev 35 0 R
+ /Title (Tab Completion is better) >>
 endobj
-% 'Outline.9': class OutlineEntryObject 
-34 0 obj
-<< /Dest [ 20 0 R
- /XYZ
- 6
- 283.7386
- 0 ]
- /Next 35 0 R
- /Parent 24 0 R
- /Prev 33 0 R
- /Title (Workit Example) >>
-endobj
-% 'Outline.10': class OutlineEntryObject 
-35 0 obj
+% 'Outline.8': class OutlineEntryObject 
+37 0 obj
 << /Dest [ 21 0 R
  /XYZ
  6
  283.7386
  0 ]
- /Parent 24 0 R
- /Prev 34 0 R
+ /Next 38 0 R
+ /Parent 28 0 R
+ /Prev 36 0 R
+ /Title (Shared History) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 39 0 R
+ /Parent 28 0 R
+ /Prev 37 0 R
+ /Title (Workit) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Next 40 0 R
+ /Parent 28 0 R
+ /Prev 38 0 R
+ /Title (Workit Example) >>
+endobj
+% 'Outline.11': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 25 0 R
+ /XYZ
+ 6
+ 283.7386
+ 0 ]
+ /Parent 28 0 R
+ /Prev 39 0 R
  /Title (Workit Notes) >>
 endobj
-% 'R36': class PDFPages 
-36 0 obj
+% 'R41': class PDFPages 
+41 0 obj
 % page tree
-<< /Count 12
+<< /Count 16
  /Kids [ 8 0 R
  10 0 R
  11 0 R
@@ -529,13 +623,17 @@ endobj
  15 0 R
  16 0 R
  17 0 R
+ 18 0 R
  19 0 R
  20 0 R
- 21 0 R ]
+ 21 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R ]
  /Type /Pages >>
 endobj
-% 'R37': class PDFStream 
-37 0 obj
+% 'R42': class PDFStream 
+42 0 obj
 % page stream
 << /Length 1686 >>
 stream
@@ -650,8 +748,8 @@ Q
 endstream
 
 endobj
-% 'R38': class PDFStream 
-38 0 obj
+% 'R43': class PDFStream 
+43 0 obj
 % page stream
 << /Length 1973 >>
 stream
@@ -788,10 +886,10 @@ Q
 endstream
 
 endobj
-% 'R39': class PDFStream 
-39 0 obj
+% 'R44': class PDFStream 
+44 0 obj
 % page stream
-<< /Length 3151 >>
+<< /Length 3506 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -801,10 +899,38 @@ BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Vim Mode) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 256.7386 cm
+1 0 0 1 6 250.7386 cm
 Q
 q
-1 0 0 1 6 238.7386 cm
+1 0 0 1 6 118.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 0 5 Tm  T* ET
+q
+1 0 0 1 23 129 cm
+Q
+q
+1 0 0 1 23 93 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F4 10 Tf 0 0 0 rg (esc ) Tj /F1 10 Tf (: enter command mode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 3 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -817,20 +943,26 @@ Q
 q
 1 0 0 1 23 3 cm
 q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F4 10 Tf 0 0 0 rg (esc ) Tj /F1 10 Tf (: enter command mode - I use mapped to ) Tj /F4 10 Tf (jj) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (I use mapped to ) Tj /F4 10 Tf (jj) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 6 238.7386 cm
+1 0 0 1 23 3 cm
 Q
 q
-1 0 0 1 6 241.7386 cm
+Q
 Q
 q
-1 0 0 1 6 223.7386 cm
+1 0 0 1 23 93 cm
+Q
+q
+1 0 0 1 23 96 cm
+Q
+q
+1 0 0 1 23 78 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -851,13 +983,13 @@ q
 Q
 Q
 q
-1 0 0 1 6 223.7386 cm
+1 0 0 1 23 78 cm
 Q
 q
-1 0 0 1 6 226.7386 cm
+1 0 0 1 23 81 cm
 Q
 q
-1 0 0 1 6 208.7386 cm
+1 0 0 1 23 63 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -878,13 +1010,13 @@ q
 Q
 Q
 q
-1 0 0 1 6 208.7386 cm
+1 0 0 1 23 63 cm
 Q
 q
-1 0 0 1 6 211.7386 cm
+1 0 0 1 23 66 cm
 Q
 q
-1 0 0 1 6 193.7386 cm
+1 0 0 1 23 48 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -904,13 +1036,13 @@ q
 Q
 Q
 q
-1 0 0 1 6 193.7386 cm
+1 0 0 1 23 48 cm
 Q
 q
-1 0 0 1 6 196.7386 cm
+1 0 0 1 23 51 cm
 Q
 q
-1 0 0 1 6 178.7386 cm
+1 0 0 1 23 33 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -931,13 +1063,13 @@ q
 Q
 Q
 q
-1 0 0 1 6 178.7386 cm
+1 0 0 1 23 33 cm
 Q
 q
-1 0 0 1 6 181.7386 cm
+1 0 0 1 23 36 cm
 Q
 q
-1 0 0 1 6 163.7386 cm
+1 0 0 1 23 18 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -958,13 +1090,13 @@ q
 Q
 Q
 q
-1 0 0 1 6 163.7386 cm
+1 0 0 1 23 18 cm
 Q
 q
-1 0 0 1 6 166.7386 cm
+1 0 0 1 23 21 cm
 Q
 q
-1 0 0 1 6 148.7386 cm
+1 0 0 1 23 3 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -984,13 +1116,19 @@ q
 Q
 Q
 q
-1 0 0 1 6 148.7386 cm
+1 0 0 1 23 3 cm
 Q
 q
-1 0 0 1 6 148.7386 cm
+Q
 Q
 q
-1 0 0 1 6 148.7386 cm
+1 0 0 1 6 118.7386 cm
+Q
+q
+1 0 0 1 6 118.7386 cm
+Q
+q
+1 0 0 1 6 118.7386 cm
 Q
 q
 1 0 0 1 0 328.1575 cm
@@ -1010,10 +1148,66 @@ Q
 endstream
 
 endobj
-% 'R40': class PDFStream 
-40 0 obj
+% 'R45': class PDFStream 
+45 0 obj
 % page stream
-<< /Length 1763 >>
+<< /Length 1210 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Vim Edit Sample) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 242.3482 cm
+q
+q
+.251836 0 0 .251836 0 0 cm
+q
+1 0 0 1 6.6 26.20749 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 1572 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (for i in $\(seq 1 10\); do time wget -t1 -O/dev/null \\) Tj T* ('http://www.predictadxml.com/ads/?pid=5152) Tj (&) Tj (cs=872) Tj (&) Tj (keyword=cash) Tj (&) Tj (ref=http%3a%2f%2fwww.exampledomain.com) Tj (&) Tj (adult=0) Tj (&) Tj (ua=Mozilla%2f5.0+\(Windows%3b+U%3b+Windows+NT+5.1%3b+en-US%3b+rv%3a1.9.0.3\)+Gecko%2f2008092417+Firefox%2f3.0.3) Tj (&) Tj (f=1) Tj (&) Tj (subid=1) Tj (&) Tj (count=2) Tj (&) Tj (ip=194.117.97.95'; \\) Tj T* (done 2) Tj (>) Tj (&) Tj (1 | grep real) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 234.3482 cm
+Q
+q
+1 0 0 1 6 234.3482 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 189.8167 0 Td (Vim Edit Sample) Tj T* -189.8167 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (4) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R46': class PDFStream 
+46 0 obj
+% page stream
+<< /Length 1753 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1112,7 +1306,7 @@ n -6 -6 394.989 72 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 53.71 Tm /F4 10 Tf 12 TL ($ cd /var/log ... ... ..) Tj T* ($ cd /var/ww) Tj T* ($ cd /etc/apache2) Tj T* ($ dv) Tj T* ($ ~1) Tj T* ET
+BT 1 0 0 1 0 53.71 Tm /F4 10 Tf 12 TL ($ cd /var/log) Tj T* ($ cd /var/www) Tj T* ($ cd /etc/apache2) Tj T* ($ dv) Tj T* ($ ~1) Tj T* ET
 Q
 Q
 Q
@@ -1135,30 +1329,24 @@ q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (4) Tj T* -223.9917 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (5) Tj T* -223.9917 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R41': class PDFStream 
-41 0 obj
+% 'R47': class PDFStream 
+47 0 obj
 % page stream
-<< /Length 1795 >>
+<< /Length 1680 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 6 262.7386 cm
-q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Working with directories \(2\)) Tj T* ET
-Q
+1 0 0 1 6 283.7386 cm
 Q
 q
-1 0 0 1 6 256.7386 cm
-Q
-q
-1 0 0 1 6 238.7386 cm
+1 0 0 1 6 265.7386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -1172,17 +1360,17 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ignore case tab complete) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ignore tab complete) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 6 238.7386 cm
+1 0 0 1 6 265.7386 cm
 Q
 q
-1 0 0 1 6 193.5386 cm
+1 0 0 1 6 220.5386 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1195,17 +1383,17 @@ q
 n -6 -6 394.989 36 re B*
 Q
 q
-BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ /home/rharding/flos) Tj (<) Tj (tab) Tj (>) Tj  T* ($ ~/flos) Tj T* ET
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ /home/rharding/flos) Tj (<) Tj (tab) Tj (>) Tj  T* ($ ~/flos) Tj (<) Tj (tab) Tj (>) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 6 185.5386 cm
+1 0 0 1 6 212.5386 cm
 Q
 q
-1 0 0 1 6 167.5386 cm
+1 0 0 1 6 194.5386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -1226,10 +1414,10 @@ q
 Q
 Q
 q
-1 0 0 1 6 167.5386 cm
+1 0 0 1 6 194.5386 cm
 Q
 q
-1 0 0 1 6 122.3386 cm
+1 0 0 1 6 149.3386 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1250,33 +1438,33 @@ Q
 Q
 Q
 q
-1 0 0 1 6 114.3386 cm
+1 0 0 1 6 141.3386 cm
 Q
 q
-1 0 0 1 6 114.3386 cm
+1 0 0 1 6 141.3386 cm
 Q
 q
 1 0 0 1 0 328.1575 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 166.2067 0 Td (Working with directories \(2\)) Tj T* -166.2067 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 173.7067 0 Td (Working with directories) Tj T* -173.7067 0 Td ET
 Q
 Q
 q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (5) Tj T* -223.9917 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (6) Tj T* -223.9917 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R42': class PDFStream 
-42 0 obj
+% 'R48': class PDFStream 
+48 0 obj
 % page stream
-<< /Length 2503 >>
+<< /Length 1523 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1289,32 +1477,32 @@ q
 1 0 0 1 6 256.7386 cm
 Q
 q
-1 0 0 1 6 220.7386 cm
+1 0 0 1 6 208.7386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
-1 0 0 1 6 21 cm
+1 0 0 1 6 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 21 cm
+1 0 0 1 23 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Directory alias) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 21 cm
+1 0 0 1 23 33 cm
 Q
 q
 1 0 0 1 23 3 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 15 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1324,7 +1512,7 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (more than cd shortcut command, usable from other commands) Tj T* ET
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 3.809915 Tw (more than an alias for a cd command, usable as parameter to other) Tj T* 0 Tw (commands) Tj T* ET
 Q
 Q
 q
@@ -1337,10 +1525,10 @@ q
 Q
 Q
 q
-1 0 0 1 6 220.7386 cm
+1 0 0 1 6 208.7386 cm
 Q
 q
-1 0 0 1 6 163.5386 cm
+1 0 0 1 6 151.5386 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1354,17 +1542,47 @@ n -6 -6 394.989 48 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 29.71 Tm /F4 10 Tf 12 TL ($ alog="/var/log/apache2/") Tj T* ($ cd alog) Tj T* ($ ls alog) Tj T* ET
+BT 1 0 0 1 0 29.71 Tm /F4 10 Tf 12 TL ($ alias -g alog="/var/log/apache2/") Tj T* ($ alog) Tj T* ($ ls alog) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 6 155.5386 cm
+1 0 0 1 6 143.5386 cm
 Q
 q
-1 0 0 1 6 119.5386 cm
+1 0 0 1 6 143.5386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 210.6567 0 Td (Aliases) Tj T* -210.6567 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (7) Tj T* -223.9917 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R49': class PDFStream 
+49 0 obj
+% page stream
+<< /Length 1380 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 283.7386 cm
+Q
+q
+1 0 0 1 6 247.7386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -1411,10 +1629,10 @@ q
 Q
 Q
 q
-1 0 0 1 6 119.5386 cm
+1 0 0 1 6 247.7386 cm
 Q
 q
-1 0 0 1 6 50.33858 cm
+1 0 0 1 6 178.5386 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1435,10 +1653,10 @@ Q
 Q
 Q
 q
-1 0 0 1 6 42.33858 cm
+1 0 0 1 6 170.5386 cm
 Q
 q
-1 0 0 1 6 42.33858 cm
+1 0 0 1 6 170.5386 cm
 Q
 q
 1 0 0 1 0 328.1575 cm
@@ -1451,23 +1669,23 @@ q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (6) Tj T* -223.9917 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (8) Tj T* -223.9917 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R43': class PDFStream 
-43 0 obj
+% 'R50': class PDFStream 
+50 0 obj
 % page stream
-<< /Length 3160 >>
+<< /Length 3156 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 6 262.7386 cm
 q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Alias Examples) Tj T* ET
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Pipe Aliases) Tj T* ET
 Q
 Q
 q
@@ -1696,24 +1914,114 @@ q
 1 0 0 1 0 328.1575 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 192.5967 0 Td (Alias Examples) Tj T* -192.5967 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 199.2617 0 Td (Pipe Aliases) Tj T* -199.2617 0 Td ET
 Q
 Q
 q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (7) Tj T* -223.9917 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (9) Tj T* -223.9917 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R44': class PDFStream 
-44 0 obj
+% 'R51': class PDFStream 
+51 0 obj
 % page stream
-<< /Length 2731 >>
+<< /Length 1350 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 262.7386 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Extension Aliases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 244.7386 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Opens files with that extension in that application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 244.7386 cm
+Q
+q
+1 0 0 1 6 226.7386 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (uses ) Tj /F4 10 Tf (-s ) Tj /F1 10 Tf (flag) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 6 226.7386 cm
+Q
+q
+1 0 0 1 6 157.5386 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 394.989 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F4 10 Tf 12 TL ($ alias -s php=gvim) Tj T* ($ alias -s pdf=xpdf) Tj T* ($ fabfile.py) Tj T* ($ Python_Testing_Beginner's_Guide.pdf) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 6 149.5386 cm
+Q
+q
+1 0 0 1 6 149.5386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 187.3117 0 Td (Extension Aliases) Tj T* -187.3117 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (10) Tj T* -221.2117 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R52': class PDFStream 
+52 0 obj
+% page stream
+<< /Length 1418 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1794,7 +2102,37 @@ q
 1 0 0 1 6 162.3386 cm
 Q
 q
-1 0 0 1 6 144.3386 cm
+1 0 0 1 6 162.3386 cm
+Q
+q
+1 0 0 1 0 328.1575 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 172.3067 0 Td (Tab Completion is better) Tj T* -172.3067 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (11) Tj T* -221.2117 0 Td ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R53': class PDFStream 
+53 0 obj
+% page stream
+<< /Length 1685 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 283.7386 cm
+Q
+q
+1 0 0 1 6 265.7386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -1815,10 +2153,10 @@ q
 Q
 Q
 q
-1 0 0 1 6 144.3386 cm
+1 0 0 1 6 265.7386 cm
 Q
 q
-1 0 0 1 6 99.13858 cm
+1 0 0 1 6 220.5386 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1838,10 +2176,10 @@ Q
 Q
 Q
 q
-1 0 0 1 6 91.13858 cm
+1 0 0 1 6 212.5386 cm
 Q
 q
-1 0 0 1 6 73.13858 cm
+1 0 0 1 6 194.5386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -1855,17 +2193,17 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Provided by completion functions, small easy to do) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Provded by completion functions, small and easy to do) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 6 73.13858 cm
+1 0 0 1 6 194.5386 cm
 Q
 q
-1 0 0 1 6 39.93858 cm
+1 0 0 1 6 161.3386 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1885,10 +2223,10 @@ Q
 Q
 Q
 q
-1 0 0 1 6 31.93858 cm
+1 0 0 1 6 153.3386 cm
 Q
 q
-1 0 0 1 6 31.93858 cm
+1 0 0 1 6 153.3386 cm
 Q
 q
 1 0 0 1 0 328.1575 cm
@@ -1901,17 +2239,17 @@ q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (8) Tj T* -223.9917 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (12) Tj T* -221.2117 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R45': class PDFStream 
-45 0 obj
+% 'R54': class PDFStream 
+54 0 obj
 % page stream
-<< /Length 1369 >>
+<< /Length 1389 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1959,7 +2297,7 @@ q
 1 0 0 1 23 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (switch tab) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (switch to already running tab) Tj T* ET
 Q
 Q
 q
@@ -2005,17 +2343,17 @@ q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 223.9917 0 Td (9) Tj T* -223.9917 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (13) Tj T* -221.2117 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R46': class PDFStream 
-46 0 obj
+% 'R55': class PDFStream 
+55 0 obj
 % page stream
-<< /Length 2945 >>
+<< /Length 2779 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -2025,18 +2363,10 @@ BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Workit) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 250.7386 cm
+1 0 0 1 6 256.7386 cm
 Q
 q
-1 0 0 1 6 226.7386 cm
-0 0 0 rg
-BT /F3 10 Tf 12 TL ET
-BT 1 0 0 1 0 5 Tm  T* ET
-q
-1 0 0 1 23 21 cm
-Q
-q
-1 0 0 1 23 3 cm
+1 0 0 1 6 238.7386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -2058,26 +2388,20 @@ q
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 6 238.7386 cm
 Q
 q
-Q
-Q
-q
-1 0 0 1 6 226.7386 cm
-Q
-q
-1 0 0 1 6 208.7386 cm
+1 0 0 1 6 220.7386 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Assists in quickly working on various src/text projects you might have.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 6 208.7386 cm
+1 0 0 1 6 220.7386 cm
 Q
 q
-1 0 0 1 6 127.7386 cm
+1 0 0 1 6 139.7386 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -2192,7 +2516,8 @@ Q
 q
 1 0 0 1 23 3 cm
 q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (define shortcuts used i.e. \() Tj /F4 10 Tf (qunit) Tj /F1 10 Tf (\)) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (define shortcuts used i.e. \(qunit\)) Tj T* ET
 Q
 Q
 q
@@ -2205,13 +2530,13 @@ q
 Q
 Q
 q
-1 0 0 1 6 127.7386 cm
+1 0 0 1 6 139.7386 cm
 Q
 q
-1 0 0 1 6 127.7386 cm
+1 0 0 1 6 139.7386 cm
 Q
 q
-1 0 0 1 6 127.7386 cm
+1 0 0 1 6 139.7386 cm
 Q
 q
 1 0 0 1 0 328.1575 cm
@@ -2224,17 +2549,17 @@ q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (10) Tj T* -221.2117 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (14) Tj T* -221.2117 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R47': class PDFStream 
-47 0 obj
+% 'R56': class PDFStream 
+56 0 obj
 % page stream
-<< /Length 1099 >>
+<< /Length 1108 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -2278,7 +2603,7 @@ q
 n -6 -6 394.989 60 re B*
 Q
 q
-BT 1 0 0 1 0 41.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (workit zsh_samples) Tj T* (workit ) Tj (<) Tj (tab) Tj (>) Tj  T* (workit pyvim) Tj T* (workit hotaler) Tj T* ET
+BT 1 0 0 1 0 41.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ($ workit zsh_samples) Tj T* ($ workit ) Tj (<) Tj (tab) Tj (>) Tj  T* ($ workit pyvim) Tj T* ($ workit hotalert) Tj T* ET
 Q
 Q
 Q
@@ -2301,17 +2626,17 @@ q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (11) Tj T* -221.2117 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (15) Tj T* -221.2117 0 Td ET
 Q
 Q
  
 endstream
 
 endobj
-% 'R48': class PDFStream 
-48 0 obj
+% 'R57': class PDFStream 
+57 0 obj
 % page stream
-<< /Length 1045 >>
+<< /Length 1016 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -2356,9 +2681,6 @@ BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (ZSH has higher level arrays that bash does
 Q
 Q
 q
-1 0 0 1 6 191.5386 cm
-Q
-q
 1 0 0 1 0 328.1575 cm
 q
 0 0 0 rg
@@ -2369,7 +2691,7 @@ q
 1 0 0 1 0 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (12) Tj T* -221.2117 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 221.2117 0 Td (16) Tj T* -221.2117 0 Td ET
 Q
 Q
  
@@ -2377,7 +2699,7 @@ endstream
 
 endobj
 xref
-0 49
+0 58
 0000000000 65535 f
 0000000113 00000 n
 0000000245 00000 n
@@ -2396,45 +2718,54 @@ xref
 0000003580 00000 n
 0000003894 00000 n
 0000004208 00000 n
-0000004536 00000 n
-0000004768 00000 n
-0000005104 00000 n
-0000005419 00000 n
-0000005749 00000 n
-0000005887 00000 n
-0000006123 00000 n
-0000006249 00000 n
-0000006409 00000 n
-0000006586 00000 n
-0000006779 00000 n
-0000006978 00000 n
-0000007154 00000 n
-0000007337 00000 n
-0000007530 00000 n
-0000007713 00000 n
-0000007888 00000 n
-0000008072 00000 n
-0000008222 00000 n
-0000008429 00000 n
-0000010216 00000 n
-0000012290 00000 n
-0000015542 00000 n
-0000017406 00000 n
-0000019302 00000 n
-0000021906 00000 n
-0000025167 00000 n
-0000027999 00000 n
-0000029469 00000 n
-0000032515 00000 n
-0000033715 00000 n
+0000004523 00000 n
+0000004838 00000 n
+0000005153 00000 n
+0000005468 00000 n
+0000005796 00000 n
+0000006028 00000 n
+0000006364 00000 n
+0000006679 00000 n
+0000006994 00000 n
+0000007132 00000 n
+0000007368 00000 n
+0000007494 00000 n
+0000007654 00000 n
+0000007831 00000 n
+0000008015 00000 n
+0000008208 00000 n
+0000008384 00000 n
+0000008565 00000 n
+0000008751 00000 n
+0000008944 00000 n
+0000009127 00000 n
+0000009303 00000 n
+0000009487 00000 n
+0000009637 00000 n
+0000009880 00000 n
+0000011667 00000 n
+0000013741 00000 n
+0000017348 00000 n
+0000018659 00000 n
+0000020513 00000 n
+0000022294 00000 n
+0000023918 00000 n
+0000025399 00000 n
+0000028656 00000 n
+0000030107 00000 n
+0000031626 00000 n
+0000033412 00000 n
+0000034902 00000 n
+0000037782 00000 n
+0000038991 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\247\304\353\317Q<\213\221\306\027\015\266\266\177\216\310) (\247\304\353\317Q<\213\221\306\027\015\266\266\177\216\310)] 
+ [(\231\267i\030\([xt\351\001\337\272\217zR\257) (\231\267i\030\([xt\351\001\337\272\217zR\257)] 
 
- /Info 23 0 R
- /Root 22 0 R
- /Size 49 >>
+ /Info 27 0 R
+ /Root 26 0 R
+ /Size 58 >>
 startxref
-34834
+40081
 %%EOF
